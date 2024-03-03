@@ -1,4 +1,9 @@
 # React + Vite
+Visit the site and rate the site
+1-10
+
+https://college-site-iota.vercel.app/
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
