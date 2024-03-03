@@ -30,8 +30,8 @@ const Testmonials = () => {
     
   return (
     <div className='testimonials'>
-        <img src={next_icon} alt='' className='next_icon' onClick={slideForward}/>
-        <img src={back_icon} alt='' className='back_icon' onClick={slideBackward}/>
+        {/* <img src={next_icon} alt='' className='next_icon' onClick={slideForward}/>
+        <img src={back_icon} alt='' className='back_icon' onClick={slideBackward}/> */}
 
         <div className='slider'>
             <ul ref={slider}>
