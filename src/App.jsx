@@ -21,7 +21,8 @@ function App() {
       <div className='container'>
         <Title  subtitle='Our Program' title='What We Offer' />
         <Programs />
-        <About setPlayState={setPlayState}/>
+        {/* <About setPlayState={setPlayState}/> */}
+        <About />
         <Title  subtitle='Gallery' title='Campus Photo' />
         <Campus />
         <Title  subtitle='TESTIMONIALS' title='What Student Says' />
